@@ -14,7 +14,7 @@ Try it:
 python3 campusbike.py
 ```
 
-On Windows, use `python` instead of `python3`.
+On Windows, use `py` instead of `python3`.
 
 ## Getting started
 
