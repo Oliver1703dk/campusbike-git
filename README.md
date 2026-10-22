@@ -3,7 +3,14 @@
 This repository is the starting point for the Lecture 8 Git exercise in Software Engineering.
 You work in pairs: Person A and Person B.
 
-The full steps are in the exercise sheet. This page is a short overview.
+The full steps are in the [exercise sheet](exercise/Exercise_8_Git.pdf). This page is a short overview.
+
+## Exercise and solution
+
+- [Exercise sheet](exercise/Exercise_8_Git.pdf) - the five parts, step by step.
+- [Solution](solution/Solutions_8_Git.pdf) - model answers and real outputs.
+
+Try the exercise first. Use the solution afterwards to check your work.
 
 ## What is in here
 
